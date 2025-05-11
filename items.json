@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Topwear",
+        "title": "Flannel Shirt",
+        "item_id": "T002",
+        "brand": "H&M",
+        "size": "L",
+        "color": "Red Plaid"
+    },
+    {
+        "type": "Topwear",
+        "title": "Graphic Tee",
+        "item_id": "T003",
+        "brand": "Zara",
+        "size": "S",
+        "color": "Black"
+    },
+    {
+        "type": "Topwear",
+        "title": "Oversized Hoodie",
+        "item_id": "T004",
+        "brand": "Nike",
+        "size": "XL",
+        "color": "Grey"
+    },
+    {
+        "type": "Topwear",
+        "title": "Silk Blouse",
+        "item_id": "T005",
+        "brand": "Uniqlo",
+        "size": "M",
+        "color": "White"
+    },
+    {
+        "type": "Bottomwear",
+        "title": "Chinos",
+        "item_id": "B001",
+        "waist_size": 32,
+        "length": 40,
+        "material": "Cotton"
+    },
+    {
+        "type": "Bottomwear",
+        "title": "Skinny Jeans",
+        "item_id": "B002",
+        "waist_size": 30,
+        "length": 38,
+        "material": "Denim"
+    },
+    {
+        "type": "Bottomwear",
+        "title": "Pleated Skirt",
+        "item_id": "B004",
+        "waist_size": 28,
+        "length": 36,
+        "material": "Polyester"
+    },
+    {
+        "type": "Bottomwear",
+        "title": "Cargo Pants",
+        "item_id": "B005",
+        "waist_size": 33,
+        "length": 42,
+        "material": "Canvas"
+    },
+    {
+        "type": "Bottomwear",
+        "title": "Joggers",
+        "item_id": "B003",
+        "waist_size": 34,
+        "length": 40,
+        "material": "Fleece"
+    },
+    {
+        "type": "Topwear",
+        "title": "Denim Jacket",
+        "item_id": "T001",
+        "brand": "Levi's",
+        "size": "M",
+        "color": "Blue"
+    }
+]
