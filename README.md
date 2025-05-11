@@ -32,3 +32,12 @@
 
 ```bash
 python main.py
+
+---
+
+## Sample Data
+The items.json file includes sample clothing items like jackets, shirts, and pants.
+This data was auto-generated using AI to help you quickly test the app's features.
+
+## Missing Feature
+I couldn’t add a swap credit system — it was tricky to balance points and keep it simple in a terminal app, so I skipped it for now.
